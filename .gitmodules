@@ -1,0 +1,3 @@
+[submodule "agriculture"]
+	path = agriculture
+	url = https://github.com/assiachouik/agriculture.git
